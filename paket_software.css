@@ -1,0 +1,57 @@
+#outer{
+	background: #fff;
+	max-width: 1200px;
+	margin: 0 auto;
+	margin-top: 20px;	
+	padding: 10px;
+	font-family: arial;
+	margin-bottom: 20px;
+}
+.update{
+	border: 1px solid #eee;
+	padding: 0 10px;
+        margin: 10px;
+}
+.box-paket{
+	width: 300px;
+	border: 2px solid #fff;
+	text-align: center;
+	padding: 20px 10px 30px 10px;
+	float: left;
+	margin-left: 0px;
+	cursor: default;
+	background: #1D9BF3;
+	margin-top: 0px;
+	color: #fff;
+}
+.box-paket:hover{
+	box-shadow: 0 0 10px #0888e2;
+	border: 2px solid #0888e2;
+}
+.box-paket h1{
+	font-size: 16px;
+}
+.box-paket a{
+	border: 1px solid #fff;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 25px;
+	font-size: 15px;
+	transition: all 0.3s ease 0s;
+}
+.box-paket a:hover{
+	background: #222323;
+	color: #fff;
+}
+.ahref1{
+	padding: 7px 20px;
+	color: #000;
+	background: orange;
+	border-radius: 8px;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+.ahref1:hover{
+	color: #fff;
+}
